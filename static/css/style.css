@@ -1,0 +1,17 @@
+body{
+    background-color: #FEECE9;   
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.topnav {
+    overflow: hidden;
+    background-color: transparent;
+}
+
+.mySlides {
+  display:none;
+
+}
+.slide-body{
+  padding: 30px 30px 30px 30px;
+}
